@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 c
 
 edit at 1522
@@ -11,3 +12,7 @@ create in branch2create in branch2
 create in branch2
 create in branch2
 create in branch2
+=======
+BaronZ/TestPR
+ branch: master  TestPR/test.txt
+>>>>>>> branch
